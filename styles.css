@@ -1,0 +1,96 @@
+/* *{
+    border: 1px solid black;
+} */
+
+.welcome{
+    margin: 20px 0 0 40px;
+}
+
+.coding{
+    text-align: center;
+    height: 30vh;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 50px 0 50px 0;
+    padding-top: 35px;
+    margin-top: 20px;
+}
+
+.about{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#hrr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 10%;
+    border-color: aqua;
+    margin: 3px auto;
+}
+
+.container-fluid{
+    margin-top: 40px;
+    background-color: blanchedalmond;
+}
+
+img{
+    position: relative;
+    left: 35%;
+}
+
+
+.para{
+    /* margin-top: 20px;
+    margin-right: 80px; */
+    margin: 20px auto;
+}
+
+.hrr2{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 10%;
+    border-color: aqua;
+    margin: 30px auto;
+}
+
+.heading{
+    text-align: center;
+    color: #444444;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover{
+    border: 2px solid black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.4s;
+    padding: 0 10px;
+}
+
+.card{
+    margin: 10px auto;
+}
+
+.my-container{
+    margin-top: 40px;
+}
+
+.end{
+    color: whitesmoke;
+    margin: 30px auto;
+    width: 70%;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.row{
+    width: 100%;
+}
